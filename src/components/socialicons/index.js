@@ -18,11 +18,6 @@ export default function Socialicons(params) {
           </a>
         </li>
         <li>
-          <a href={socialprofils.facebook}>
-            <FaFacebookF />
-          </a>
-        </li>
-        <li>
           <a href={socialprofils.linkedin}>
             <FaLinkedin />
           </a>

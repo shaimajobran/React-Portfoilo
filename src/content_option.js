@@ -73,7 +73,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "./assets/images/1.jpg",
+        img: "../src/assets/images/1.jpg",
         desctiption: "",
         link: "https://quiet-anchorage-14204.herokuapp.com/",
     },
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "shaimajobran22@gmail.com",
+    YOUR_FONE: "(410)428-1438",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -145,10 +145,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/shaimajobran",
+    linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
+    twitter: "https://twitter.com/shaimajobran",
 };
 export {
     meta,
