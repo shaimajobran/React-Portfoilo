@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Full Stack Developer",
-    your_img_url: "https://onlineplus.com.au/wp-content/uploads/2016/11/slider-background-1.jpg",
+    your_img_url:"https://images.freeimages.com/images/large-previews/2ae/bokeh-background-in-light-tan-rose-1635915.jpg"
 };
 
 const dataabout = {
@@ -36,12 +36,9 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
+const skills = [
     {
-        name: "Djano",
+        name: "HTML",
         value: 85,
     },
     {
@@ -58,18 +55,10 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const Langauges = [{
+        title: "Languages I use ",
+        description: "HTML,CSS,JS,Express,Node.js,JQuery,SQL,Mongo,React.",
+    }
 ];
 
 const dataportfolio = [{
@@ -146,7 +135,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/shaimajobran",
-    linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
+    linkedin: "https://linkedin.com/shaimajobran",
     twitter: "https://twitter.com/shaimajobran",
 };
 export {
@@ -155,7 +144,7 @@ export {
     dataportfolio,
     worktimeline,
     skills,
-    services,
+    Langauges,
     introdata,
     contactConfig,
     socialprofils,

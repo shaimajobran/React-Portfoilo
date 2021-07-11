@@ -1,6 +1,6 @@
 :root {
-    --bg-color: #f1e9e9;
-    --primary-color: #0d0d0d;
+    --bg-color: #d4bdbd;
+    --primary-color: #d4bdbd;
     --secondary-color: #fff;
     --text-color: rgb(49, 40, 40);
     --text-color-2: rgb(56, 47, 47);
@@ -8,11 +8,11 @@
 }
 
 [data-theme="light"] {
-    --bg-color: #ffffff;
-    --primary-color: #ffffff;
-    --secondary-color: #000;
-    --text-color: #000;
-    --text-color-2: #000;
+    --bg-color: #8f7474;
+    --primary-color: #8f7474;
+    --secondary-color: rgb(36, 31, 31);
+    --text-color: rgb(75, 65, 65);
+    --text-color-2: rgb(80, 66, 66);
     --overlay-color: rgb(255 255 255 / 70%);
 }
 
