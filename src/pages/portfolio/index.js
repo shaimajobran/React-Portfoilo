@@ -23,7 +23,7 @@ function Portfolio() {
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
-                <img src={data.img} alt="" />
+                <img src={data.img} />
                 <div className="content">
                   <p>{data.desctiption}</p>
                   <a href={data.link}>view project</a>
