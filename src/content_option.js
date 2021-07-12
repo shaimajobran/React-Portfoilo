@@ -16,8 +16,8 @@ const introdata = {
 };
 
 const dataabout = {
-    title: " About",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: " Get to know Me",
+    aboutme: "Hi! I am Shaima! A full stack developer  using new technologies to build web applications. I enjoy Back End as well as Front End developing . I am passionate about web development and programming because I love to make apps that help people and communities. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
 };
 const worktimeline = [{
         jobtitle: "Full Stack Web Developer",
@@ -93,7 +93,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "shaimajobran22@gmail.com",
     YOUR_FONE: "(410)428-1438",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -101,7 +101,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/shaimajobran",
-    linkedin: "https://linkedin.com/shaimajobran",
+    linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
     twitter: "https://twitter.com/shaimajobran",
 };
 export {
