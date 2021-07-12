@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Shaima Jobran",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Full Stack Developer",
+        second: "I Build React Apps ",
+        third: "I Love Coding !",
     },
     description: "Full Stack Developer",
     your_img_url:"https://images.freeimages.com/images/large-previews/2ae/bokeh-background-in-light-tan-rose-1635915.jpg"
@@ -19,22 +19,8 @@ const dataabout = {
     title: " Get to know Me",
     aboutme: "Hi! I am Shaima! A full stack developer  using new technologies to build web applications. I enjoy Back End as well as Front End developing . I am passionate about web development and programming because I love to make apps that help people and communities. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
 };
-const worktimeline = [{
-        jobtitle: "Full Stack Web Developer",
-        where: "",
-        date: "",
-    },
-    {
-        jobtitle: "",
-        where: "",
-        date: "",
-    },
-    {
-        jobtitle: "",
-        where: "",
-        date: "",
-    },
-];
+
+
 
 const skills = [
     {
@@ -62,7 +48,7 @@ const Langauges = [{
 ];
 
 const dataportfolio = [{
-        img: "./assets/images/1.jpg",
+        img: "../assets/images/1.jpg",
         desctiption: "",
         link: "https://quiet-anchorage-14204.herokuapp.com/",
     },
@@ -108,7 +94,6 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
     skills,
     Langauges,
     introdata,
