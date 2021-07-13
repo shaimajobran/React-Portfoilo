@@ -24,7 +24,7 @@ const dataabout = {
 
 const skills = [
     {
-        name: "HTML",
+        name: "HTML & CSS",
         value: 85,
     },
     {
@@ -33,7 +33,7 @@ const skills = [
     },
     {
         name: "React",
-        value: 60,
+        value: 70,
     },
     {
         name: "Jquery",
