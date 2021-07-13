@@ -22,6 +22,11 @@ export default function Socialicons(params) {
             <FaLinkedin />
           </a>
         </li>
+        {/* <li>
+          <a href={socialprofils.resume}>
+            <FaText/>
+          </a>
+        </li> */}
       </ul>
       <p>Follow Me</p>
     </div>

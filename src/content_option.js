@@ -48,12 +48,12 @@ const Langauges = [{
 ];
 
 const dataportfolio = [{
-        img: "../assets/images/1.jpg",
+        img: "",
         desctiption: "",
         link: "https://quiet-anchorage-14204.herokuapp.com/",
     },
     {
-        img: "",
+        img: "https://github.com/shaimajobran/Budget-Tracker/blob/main/public/images/3.jpg?raw=true",
         desctiption: "",
         link: "#",
     },
@@ -89,6 +89,7 @@ const socialprofils = {
     github: "https://github.com/shaimajobran",
     linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
     twitter: "https://twitter.com/shaimajobran",
+    // resume:"file:///C:/Users/shaim/Downloads/Resume_2.docx.pdf",
 };
 export {
     meta,
