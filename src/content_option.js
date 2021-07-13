@@ -12,7 +12,7 @@ const introdata = {
         third: "I Love Coding !",
     },
     description: "Full Stack Developer",
-    your_img_url:"https://images.freeimages.com/images/large-previews/2ae/bokeh-background-in-light-tan-rose-1635915.jpg"
+    your_img_url:"https://github.com/shaimajobran/React-Portfoilo/blob/main/src/assets/images/5.JPG?raw=true"
 };
 
 const dataabout = {
@@ -96,6 +96,9 @@ const socialprofils = {
     twitter: "https://twitter.com/shaimajobran",
     // resume:"file:///C:/Users/shaim/Downloads/Resume_2.docx.pdf",
 };
+const footer ={
+    
+}
 export {
     meta,
     dataabout,
@@ -106,4 +109,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    footer,
 };
